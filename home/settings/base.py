@@ -109,4 +109,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'snapmoodle251@gmail.com'
-EMAIL_HOST_PASSWORD = 'snapcs251'
+EMAIL_HOST_PASSWORD = ''
