@@ -4,7 +4,6 @@ Repository for the course project done as part of CS-251 (Software Systems Lab) 
 Webpage: https://sarthakmittal92.github.io/projects/aut21/snap-moodle  
 Original Repository: https://github.com/sarthakmittal92/past-repos/blob/main/SNAP-moodle.tar.gz
 
-# SNAPMoodle
 A MOODLE server created by Sarthak, Neeraj, Aditya & Parshant. 
 We have used DjangoREST Framework for the backend and Reactjs library for the frontend.  
 
